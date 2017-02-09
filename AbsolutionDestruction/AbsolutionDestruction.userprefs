@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="AbsolutionDestruction/AbsolutionDestruction.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbsolutionDestruction/MainWindow.cs">
+    <Files>
+      <File FileName="AbsolutionDestruction/Program.cs" Line="11" Column="4" />
+      <File FileName="AbsolutionDestruction/MainWindow.cs" Line="19" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
